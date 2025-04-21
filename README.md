@@ -1,19 +1,16 @@
-# Modelo metabolico a Escala del Genoma (GEMs) de Serratia liquefaciens UNJFSC 002 
-## Para este trabajo tomamos el modelo de iJO1366 de la base de datos BiGG Models + Escher + PyCobra
-El objetivo fue crear un modelo metabolico central de Serratia liquefaciens Strain UNJFSC 002 - tomamos este modelo de la base de datos BiGG Models,
-ya que no existe un modelo del genero Serratia de manera libre, para poder visualizar su metabolismo central
+# Genome-Scale Metabolic Model (GEMs) of Serratia liquefaciens UNJFSC 002
+## For this work we took the iJO1366 model from the BiGG Models + Escher + PyCobra database
+The objective was to create a central metabolic model of Serratia liquefaciens Strain UNJFSC 002. We took this model from the BiGG Models database, since no model of the Serratia genus exists in a free format, in order to visualize its central metabolism.
 
 ## Top Down Reconstrucction Metabolic Model (Carveme)
-Se creo la reconstrucción del modelo iJO1366 para nuestra bacteria Serratia liquefaciens Strain UNJFSC 002, aislada de Papa Bicentenaria (Huachana),
-con el fin de estudios de PGPR
+The reconstruction of the iJO1366 model was created for our bacterium Serratia liquefaciens Strain UNJFSC 002, isolated from Papa Bicentenaria (Huachana).
 
-## Memote (Para analizar la Cantidad del Modelo - Rx, Metabolitos, Genes)
+## Memote (To analyze the Quantity of the Model - Rx, Metabolites, Genes)
 
-El analisis de memote para poder observar las Rx, metabolitos implicados y los genes
+Memote analysis to observe the Rx, metabolites involved and genes
 
-## Citación
+## Citation
 
-Si vas a tomar este trabajo o estos codigos por favor citar al author correspondiente.
-Gianmarco Castillo Huaccho 
-Orcid: 0000-0003-0865-5717
-Bioinformatics - Huacho - City - Baby!!!
+If you are republishing this work or these codes, please cite the corresponding author.
+Gianmarco Castillo Huaccho
+ORCID: 0000-0003-0865-5717
