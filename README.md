@@ -14,3 +14,4 @@ Memote analysis to observe the Rx, metabolites involved and genes
 If you are republishing this work or these codes, please cite the corresponding author.
 Gianmarco Castillo Huaccho
 ORCID: 0000-0003-0865-5717
+DOI: https://doi.org/10.3390/genes17020169
